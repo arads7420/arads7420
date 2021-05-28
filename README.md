@@ -3,5 +3,4 @@
 - 🔭 I’m currently working on a site
 - 🌱 I’m currently learning React.js and Firebase
 - 👯 I’m looking to collaborate on an open-source project
-- 📫 How to reach me: [Email](aradhya.dev@outlook.com)
 
