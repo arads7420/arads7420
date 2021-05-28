@@ -1,5 +1,5 @@
 ### <p align="center">Hi there 👋, I'm Aradhya Sharma
-  ---
+
   
 - 🔭 I’m currently working on a site
 - 🌱 I’m currently learning React.js and Firebase
