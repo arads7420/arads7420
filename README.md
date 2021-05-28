@@ -1,6 +1,4 @@
 ### Hi there 👋, I'm Aradhya Sharma
-
-<a href="https://github.com/arads7420/github-stats">
   
 - 🔭 I’m currently working on a site
 - 🌱 I’m currently learning React.js and Firebase
